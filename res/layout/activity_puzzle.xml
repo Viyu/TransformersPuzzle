@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/MainTheme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/puzzle_movecounttext"
+                style="@style/SerifFontStyle.ToolsTextStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_bushu" />
+
+            <TextView
+                android:id="@+id/puzzle_movecount"
+                style="@style/SerifFontStyle.ToolsNumStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal"
+            android:paddingRight="3dip" >
+
+            <Button
+                android:id="@+id/puzzle_hintbutton"
+                style="@style/SerifFontStyle.ToolsButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="2dip"
+                android:text="@string/text_tishi" />
+
+            <TextView
+                android:id="@+id/puzzle_hintnum"
+                style="@style/SerifFontStyle.ToolsNumStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/puzzle_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_marginBottom="5dip"
+        android:layout_weight="1" >
+    </FrameLayout>
+
+</LinearLayout>

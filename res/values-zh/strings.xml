@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_stepsconsted">总步数：\u0020%1$s</string>
+    <string name="text_newrecord">新纪录！</string>
+    <string name="text_wancheng">完成！</string>
+    <string name="text_bushu">步数：</string>
+	<string name="app_name">变形金刚拼图</string>
+	 <string name="text_desc_imageview">imageview</string>
+    <string name="text_tishi">提示</string>
+    <string name="text_record">记录：\u0020%1$s步</string>
+    <string name="text_notplayed">未解锁</string>
+    <string name="text_notfinish">未通关</string>
+    <string name="text_start">开始</string>
+    <string name="text_play">开始游戏</string>
+    <string name="text_dialog_ok">确定</string>
+    <string name="text_dialog_cancel">取消</string>
+    <string name="setting_zhengdong">震动</string>
+    <string name="setting_yinxiao">音效</string>
+    <string name="text_sliding">左右滑动选择&#8230;</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+	<color name="background_black">#FF323031</color>
+	<color name="background_black_half">#B4323031</color>
+	<color name="metal_silver">#FFbcbcbc</color>
+  	<color name="metal_white">#FFfcfcfc</color>
+  	<color name="gray">#FFc7c3c5</color>
+  	
+  	<color name="silver_half">#B4bcbcbc</color>
+  	<color name="dark_half">#B418181a</color>
+  	<color name="lightdark_half">#B4473e3d</color>
+  	<color name="greendark_half">#B4293324</color>
+	
+</resources>

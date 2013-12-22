@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="text_stepsconsted">Moves:\u0020%1$s</string>
+	<string name="text_newrecord">New record!</string>
+	<string name="text_wancheng">Solved!</string>
+	<string name="text_bushu">Moves:</string>
+	<string name="app_name">Transformers Puzzle</string>
+	<string name="text_desc_imageview">imageview</string>
+	<string name="text_tishi">Hint</string>
+	<string name="text_record">Record:\u0020%1$s moves</string>
+	<string name="text_notplayed">Locked</string>
+	<string name="text_notfinish">Unsolved</string>
+	<string name="text_start">Start</string>
+	<string name="text_play">Play</string>
+	<string name="text_dialog_ok">OK</string>
+	<string name="text_dialog_cancel">Cancel</string>
+	<string name="setting_zhengdong">Vibrate</string>
+	<string name="setting_yinxiao">Sound</string>
+	<string name="text_sliding">Slide on the picture to select&#8230;</string>
+</resources>
